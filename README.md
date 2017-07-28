@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Lesson | Outlined below | [Here](linear_regression.ipynb) |
 | Solution  | Solution code for blanked out lesson samples | [Here](solution-code/linear_regression-solution.ipynb) |
-| Datasets | Capital Bikeshare Rider Data | [Here](assets/dataset/bikeshare.csv) |
+| Datasets | Capital Bikeshare Rider Data | [Here](./data/bikeshare.csv) |
 | Source Materials | Original files used to create this lesson | [Here](assets/slides/) |
 
 This dataset was chosen because there it contains approximately linear relationships and is real-world data.
