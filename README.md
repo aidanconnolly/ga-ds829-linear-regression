@@ -11,9 +11,9 @@
 | Lesson | Outlined below | [Here](linear_regression.ipynb) |
 | Solution  | Solution code for blanked out lesson samples | [Here](solution-code/linear_regression-solution.ipynb) |
 | Datasets | Capital Bikeshare Rider Data | [Here](./data/bikeshare.csv) |
-| Practice | Kobe Shot Regularization | [Here](./practice/regression-regularization_kobe_shots-lab) |
-|          | Regression Review Lab    | [Here](./practice/regression-review-lab) |
-|          | Simple Linear Regression | [Here](./practice/regression-simple_linear_regression-lab) |
+| Practice | Kobe Shot Regularization | [Here](./practice) |
+|          | Regression Review Lab    | [Here](./practice) |
+|          | Simple Linear Regression | [Here](./practice) |
 | Source Materials | Original files used to create this lesson | [Here](assets/slides/) |
 
 This dataset was chosen because there it contains approximately linear relationships and is real-world data.

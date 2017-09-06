@@ -1,3 +1,10 @@
+### v0.1 | 09.05.17
+
+- Deconstructed practice folder from individual files
+
+
+_Editor: Sam Stack_
+
 ### v0.1 | 09.04.17
 
 _Editor: Sam Stack_
