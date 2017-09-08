@@ -22,9 +22,9 @@ This dataset was chosen because there it contains approximately linear relations
 
 ## Learning Objectives
 
-- Define data modeling and simple linear regression.
-- Build a linear regression model using a dataset that meets the linearity assumption using the sci-kit learn library.
-- Understand and identify multicollinearity in a multiple regression.
+- Define data modeling and how to apply a simple linear regression.
+- Build a linear regression model using a dataset that meets the linearity assumption, using the sci-kit learn library.
+- Define and identify multicollinearity in a multiple regression.
 
 ---
 
