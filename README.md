@@ -16,7 +16,7 @@
 |          | Simple Linear Regression | [Here](./practice) |
 | Source Materials | Original files used to create this lesson | [Here](assets/slides/) |
 
-> This dataset was chosen because there it contains approximately linear relationships using real-world data.
+> This dataset was chosen because it contains approximatel linear relationships using real-world data.
 
 ---
 
