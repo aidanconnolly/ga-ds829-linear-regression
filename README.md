@@ -16,21 +16,32 @@
 |          | Simple Linear Regression | [Here](./practice) |
 | Source Materials | Original files used to create this lesson | [Here](assets/slides/) |
 
-This dataset was chosen because there it contains approximately linear relationships and is real-world data.
+> This dataset was chosen because there it contains approximately linear relationships using real-world data.
 
 ---
 
 ## Learning Objectives
 
+After this lesson, students will be able to:
 - Define data modeling and how to apply a simple linear regression.
 - Build a linear regression model using a dataset that meets the linearity assumption, using the sci-kit learn library.
 - Define and identify multicollinearity in a multiple regression.
 
 ---
 
+## Student Requirements
+
+Before this lesson(s), students should already be able to:
+- Collect data and perform basic data manipulations with Pandas
+- Import libraries into Python scripts
+- Create simple data visualizations using Python
+- Explain basic statistical concepts including linear algebra and descriptive statistics
+
+----
+
 ## Lesson Outline
 
-TOTAL (170 min)
+> TOTAL (170 min)
 - Introduce the bikeshare dataset (20 min)
   - Read in the Capital Bikeshare data (15 min)
   - Visualizing the data (5 min)
@@ -65,17 +76,6 @@ TOTAL (170 min)
 
 
 ---
-
-## Student Requirements
-
-Before this lesson(s), students should already be able to:
-
-- Collect data and perform basic data manipulations with Pandas
-- Import libraries into Python scripts
-- Create simple data visualizations using Python
-- Explain basic statistical concepts including linear algebra and descriptive statistics
-
-----
 
 ## Additional Resources
 
